@@ -1,2 +1,2 @@
-cmd 
-if condition 
+for loop 
+
